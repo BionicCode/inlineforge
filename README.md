@@ -1,3 +1,22 @@
+---
+Version: 1
+Created: 2026-09-17T21:45:47+00:00
+Updated: 2026-09-17T21:45:47+00:00
+Author: BionicCode
+---
+<!-- doc-metadata-presentation:start -->
+<details>
+<summary>Change History</summary>
+
+
+</details>
+
+---
+
+<br>
+<br>
+<!-- doc-metadata-presentation:end -->
+
 # InlineForge – AI Inline Suggestions for Visual Studio
 
 ## Your code. Your model. Your choice. Inline.
